@@ -499,7 +499,7 @@ footer {
 @media only screen and (max-width: 400px){
     
     body{
-        width:375px;
+        max-width:400px;
     }
 
     .welcome-to-our-page p{
@@ -516,6 +516,9 @@ footer {
 
 @media (min-width: 400.1px) and (max-width: 800px){
 
+    body{
+        max-width: 800px;
+    }
     .welcome-to-our-page p{
         font-size: 35px;
     }
