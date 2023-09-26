@@ -17,6 +17,11 @@ body {
 
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* Style the cover page */
 #cover {
     position: fixed;
@@ -491,6 +496,10 @@ footer {
 }
 
 @media only screen and (max-width: 400px){
+    
+    body{
+        width:375px;
+    }
 
     .welcome-to-our-page p{
         font-size: 30px;
