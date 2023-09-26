@@ -379,7 +379,7 @@ h2 {
     display: flex;
     flex-direction: column;
     height: 720px;
-    background-image: url('Images/contact-us.jpg');
+    background-image: url('images/contact-us.jpg');
     background-size: cover;
     padding-bottom: 25px;
 }
